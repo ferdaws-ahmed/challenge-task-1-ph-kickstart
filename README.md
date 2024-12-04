@@ -23,6 +23,6 @@
 - [codepen](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)
 
 ## Author
-- [Md.Ferdaws(Alif)](@ferdaws-ahmed)
-- [Github](@ferdaws-ahmed)
+- [Md.Ferdaws(Alif)](https://github.com/ferdaws-ahmed)
+- [Github](https://github.com/ferdaws-ahmed)
 - [Facebook](https://www.facebook.com/profile.php?id=61556248924752)

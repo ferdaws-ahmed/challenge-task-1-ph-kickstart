@@ -21,3 +21,7 @@
 
 ## Solution url
 - [codepen](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)
+
+## Author
+- [Github](@ferdaws-ahmed)
+- [Facebook](https://www.facebook.com/profile.php?id=61556248924752)

@@ -7,7 +7,7 @@
 
 
 ## Resource
-  -[ Web.Dev ](https://web.dev/learn/css/layout#positioning)
+- [ Web.Dev ](https://web.dev/learn/css/layout#positioning)
 
 
 
@@ -16,8 +16,8 @@
 
 
 ## Live url
-   ![Live-url](https://active-status-showing-project.surge.sh/)
+ - ![Live-url](https://active-status-showing-project.surge.sh/)
 
 
 ## Solution url
-    ![solution url:](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)
+- ![solution url](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)

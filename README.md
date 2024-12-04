@@ -16,8 +16,8 @@
 
 
 ## Live url
- - [Live-url](https://active-status-showing-project.surge.sh/)
+ - [surge.shl](https://active-status-showing-project.surge.sh/)
 
 
 ## Solution url
-- [solution url](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)
+- [codepen](https://codepen.io/Abir-Khan-the-flexboxer/pen/jENbeoE)
